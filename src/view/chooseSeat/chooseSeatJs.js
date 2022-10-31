@@ -101,7 +101,6 @@ export default {
                 if (this.userInformationList.length != 0) {
                     let a = 0;
                     let b = 0;
-                    // eslint-disable-next-line no-constant-condition
                     let c=this.userInformationList.length;
                     let d=seatInformation.length
                     // eslint-disable-next-line no-constant-condition
